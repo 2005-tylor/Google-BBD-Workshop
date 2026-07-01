@@ -37,6 +37,11 @@ nav ul li a:hover{
     color: #ffffff;
 }
 
+nav ul li a.active {
+    background-color: #1f2d3a;
+    color: #ffffff;
+}
+
 /* Footer styling */
 
 footer {
